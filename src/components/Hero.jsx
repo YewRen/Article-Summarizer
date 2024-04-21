@@ -5,7 +5,7 @@ const Hero = () => {
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex justify-between items-center w-full mb-10 pt-3">
         <div className="flex items-center justify-center gap-2">
-          <img src="src/assets/logo.png" alt="sumz_logo" className="w-12" />
+          <img src="favicon.ico" alt="sumz_logo" className="w-12" />
           <h2 className="text-2xl font-bold">Simply Sumz</h2>
         </div>
         <button
