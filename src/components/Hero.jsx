@@ -11,7 +11,7 @@ const Hero = () => {
         <button
           type="button"
           onClick={() => {
-            window.open("https://github.com/YewRen/Simply-Sumz");
+            window.open("https://github.com/YewRen/Article-Summarizer");
           }}
           className="black_btn"
         >
